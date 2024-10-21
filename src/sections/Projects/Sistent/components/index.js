@@ -37,6 +37,13 @@ const componentsData = [
       "The Paper component offers an elevated surface with shadow effects, following Material Design’s elevation system.",
     url: "/projects/sistent/components/paper",
   },
+  {
+    id: 5,
+    name: "RadioGroup",
+    description:
+      "A radio group is a set of related radio buttons where users can select only one option from multiple choices.",
+    url: "/projects/sistent/components/radio-group",
+  },
 ];
 
 const SistentComponents = () => {
@@ -99,7 +106,6 @@ const SistentComponents = () => {
                     </div>
                   </Link>
                 ))}
-
               </div>
             </div>
           </div>
