@@ -30,6 +30,13 @@ const componentsData = [
       "A text input is made up of multiple elements that combine to form a component that helps users to read, write, and edit text in an interface.",
     url: "/projects/sistent/components/modal",
   },
+  {
+    id: 4,
+    name: "RadioGroup",
+    description:
+      "A radio group is a set of related radio buttons where users can select only one option from multiple choices.",
+    url: "/projects/sistent/components/radio-group",
+  },
 ];
 
 const SistentComponents = () => {
